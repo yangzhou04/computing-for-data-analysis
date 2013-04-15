@@ -3,7 +3,6 @@ I record my experience and code here.
 
 ==============
 Computing for Data Analysis
-Roger Peng
 ==============
 This course is about learning the fundamental computing skills necessary 
 for effective data analysis. You will learn to program in R and to use R 
