@@ -1,4 +1,5 @@
-An open course from coursera.org. I record my experience and code here.
+An open course from coursera.org. https://www.coursera.org/course/compdata
+I record my experience and code here.
 
 ==============
 Computing for Data Analysis
